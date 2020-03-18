@@ -1,0 +1,32 @@
+.post1 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(135, 205, 207);
+  font-family: monospace;
+}
+
+.post2 {
+  color: rgb(228, 116, 116);
+  background-color: #a0995f;
+  font-family: sans-serif;
+}
+
+.post3 {
+  color: blue;
+  background-color: rgb(224, 138, 210);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: black;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.aboutMe {
+  color: grey;
+  font-family: monospace;
+}
+
+body {
+  background-color: bisque;
+}

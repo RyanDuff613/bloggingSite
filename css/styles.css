@@ -2,18 +2,24 @@
   color: rgb(0, 0, 0);
   background-color: rgb(135, 205, 207);
   font-family: monospace;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .post2 {
   color: rgb(228, 116, 116);
   background-color: #a0995f;
   font-family: sans-serif;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .post3 {
   color: blue;
   background-color: rgb(224, 138, 210);
   font-family: 'Times New Roman', Times, serif;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 h1 {
